@@ -1,0 +1,12 @@
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\speck.Frameworks.dll
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\speck.Frameworks.pdb
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\Newtonsoft.Json.dll
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.dll
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.pdb
+D:\快盘\开源\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.csprojResolveAssemblyReference.cache
+D:\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\speck.Frameworks.dll
+D:\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\speck.Frameworks.pdb
+D:\netspeck\001-Frameworks\speck.Frameworks\bin\Debug\Newtonsoft.Json.dll
+D:\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.dll
+D:\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.pdb
+D:\netspeck\001-Frameworks\speck.Frameworks\obj\Debug\speck.Frameworks.csprojResolveAssemblyReference.cache

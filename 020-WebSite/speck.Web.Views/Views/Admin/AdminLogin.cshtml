@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <title>企业网站管理中心_登录_云模块,因为好用,所以免费</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/v/admin/assets/img/favicon.ico">
+    <link rel="stylesheet" href="/v/admin/assets/css/common.css">
+    <link rel="stylesheet" href="/v/admin/page/admin/login/assets/css/default.css">
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="/v/admin/assets/js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/v/admin/assets/js/respond.min.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/jquery-1.11.2.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/yunmokwidget.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/assist.js"></script>
+    <script type="text/javascript" src="/v/admin/page/admin/login/assets/js/default.js"></script>
+</head>
+<body>
+    <div class="page">
+        <div class="left">
+            <img src="/v/admin/page/admin/login/assets/img/left.jpg" width="450" height="350">
+            <div class="l_txt">
+                <h1>云模块网站管理系统1.10.2</h1><p>为中国的创业者及中小企业们助力加油</p>
+            </div>
+        </div>
+        <div class="right">
+            <h1>dengyouhua</h1><div class="form_box">
+                <form name="login" action="/admin/login/verify" method="post">
+                    <div class="errorTip"></div>
+                    <div class="fieldItem">
+                        <div class="td_txt">用户名：</div>
+                        <div class="txt_input"><input name="username" type="text" class="form_01" placeholder="Username"></div>
+                    </div>
+                    <div class="fieldItem pwd">
+                        <div class="td_txt">密码：</div>
+                        <div class="txt_input"><input type="password" name="password" placeholder="Password" class="form_01"></div>
+                    </div>
+                    <div class="txt_input">
+                        <input name="提交" type="submit" value="登录" class="button_submit form_02">
+                    </div>
+                </form>
+            </div>
+            <div class="help_box"><p>祝大家2015年身体健康，万事如意~</p></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <footer class="foot">Copyright ©<a href="http://www.yunmok.com" target="_blank">Yunmok.com</a>2014-2015All Rights Reserved.  &nbsp; &nbsp;  设计师：<a href="javascript:void(0);" target="_blank">官方团队</a></footer>
+</body>
+</html>

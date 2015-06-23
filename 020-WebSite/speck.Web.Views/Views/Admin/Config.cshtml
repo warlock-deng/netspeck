@@ -1,0 +1,156 @@
+﻿@{
+    ViewBag.Title = "Config";
+}
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/v/admin/assets/img/favicon.ico">
+    <link rel="stylesheet" href="/v/admin/assets/css/common.css" media="all">
+    <link rel="stylesheet" href="/v/admin/assets/css/dialog.css">
+    <link rel="stylesheet" href="/v/admin/assets/css/button.css">
+    <link rel="stylesheet" href="/v/admin/assets/css/formField.css">
+    <link rel="stylesheet" href="/v/admin/assets/css/optTip.css">
+    <link rel="stylesheet" href="/v/admin/layout/default/assets/css/default.css" media="all">
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="/v/admin/assets/js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/v/admin/assets/js/respond.min.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/jquery-1.11.2.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/yunmokwidget.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/yunmokmenu.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/assist.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/yunmokdialog.js"></script>
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/optTip.js"></script>
+    <script type="text/javascript" src="/v/admin/layout/default/assets/js/default.js"></script>
+    <title>站点设置-yunmok</title>
+    <link rel="stylesheet" href="/v/admin/layout/sub-default-common/assets/css/default.css">
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/yunmokscrollbar.js"></script>
+    <script type="text/javascript" src="/v/admin/layout/sub-default-common/assets/js/default.js"></script>
+    <link rel="stylesheet" href="/v/admin/page/admin/system_admin~site_setting/assets/css/default.css">
+    <script type="text/javascript" src="/v/admin/assets/js/yunmok/formValidate.js"></script>
+    <script src="/v/admin/assets/js/webuploader.js"></script>
+    <script type="text/javascript" src="/v/admin/page/admin/system_admin~site_setting/assets/js/default.js"></script>
+</head>
+<body>
+    <div id="yunmok_page">
+        <div id="yunmok_header">
+            <div class="brand"><a href="/admin">yunmok</a></div>
+            <nav class="navs">
+                <ul class="siteNavBar" data-widget-yunmokmenu="{activeIndex:'4'}">
+                    <li><a href="javascript:void(0);" style="color:#AAA;cursor:default;"><span>主页</span></a></li>
+                    <li>
+                        <a href="/admin/design"><span>装修</span><i class="subnavToggleIco"></i></a>
+                        <ul class="hidden">
+                            <li><a href="/admin/design">页面管理</a></li>
+                            <li><a href="/admin/design/template">模板管理</a></li>
+                            <li><a href="/admin/design/module">模块管理</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a><span>内容</span><i class="subnavToggleIco"></i></a>
+                        <ul class="hidden">
+                            <li><a href="/admin/content/article">文章中心</a></li>
+                            <li><a href="/admin/content/product">产品中心</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a><span>组件</span><i class="subnavToggleIco"></i></a>
+                        <ul class="hidden">
+                            <li><a href="/admin/component/guestbook">访客留言</a></li>
+                            <li><a href="/admin/component/file">文件管理</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a><span>设置</span><i class="subnavToggleIco"></i></a>
+                        <ul class="hidden">
+                            <li><a href="/admin/system_admin/site_setting">站点设置</a></li>
+                            <li><a href="/admin/system_admin/data">数据管理</a></li>
+                            <li><a href="/admin/system_admin/version_control">在线升级</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            <ul class="rightPos">
+                <li class="rightIte"><a target="_blank" href="/">网站首页</a></li>
+                <li class="rightIte"><a class="serv" target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=612c85a6d5748617286a6abc270cb88ad25af23130bd2425517c978eb09aa892">官方QQ群</a></li>
+                <li class="rightIte"><span class="currUserName">admin</span></li>
+                <li class="rightIte messageNotice"><a class="vlMySetting" href="/admin/component/guestbook?status=unread"></a></li>
+                <li class="rightIte userControlIte">
+                    <span class="userControl vlMySetting"></span>
+                    <ul class="rightIteMenu hidden">
+                        <li class="rightIteMenuItem"><a class="logout" href="/admin/logout">退出</a></li>
+                        <li class="rightIteMenuItem modifyPwdBtn">修改密码</li>
+                    </ul>
+                </li>
+                <li class="rightIte"><a target="_blank" href="http://www.yunmok.com/help">帮助</a></li>
+            </ul>
+        </div>
+        <div id="yunmok_content">
+            <div id="yunmok_sidebar">
+                <div class="wrapper">
+                    <div class="sidebarTit"><h2>系统管理</h2></div><div class="sidebarBox">
+                        <div class="sidebarAccordion" data-widget-yunmokscrollbar>
+                            <div class="accordionTit titActive"><h4><a href="/admin/system_admin/site_setting"><span>站点信息</span></a></h4></div><div class="accordionTit"><h4><a href="/admin/system_admin/site_setting/cache"><span>缓存管理</span></a></h4></div>
+                        </div>
+                    </div>
+                </div><div class="switch"><p><i></i></p></div>
+            </div><div id="yunmok_main">
+                <div id="yunmok_toolbar"></div><div id="yunmok_a_content">
+                    <div class="contentBox">
+                        <div class="sepat">
+                            <div class="yunmok_fieldItem">
+                                <label class="itemName">ICO图标</label>
+                                <div class="subItems">
+                                    <div class="icoPrevies"><img src="/v/admin/page/admin/system_admin~site_setting/assets/img/no_ico.gif"></div>
+                                    <div class="replaceIcoBtn lightGreyBtn btn"><button type="button">上传</button></div>
+                                    <div class="optTips optTips_prompt"><em class="tipIcon"></em><span class="des">.ico格式，通常为方形，且应≥16×16像素。</span></div>
+                                </div>
+                            </div>
+                        </div><form name="form_default">
+                            <div class="yunmok_fieldItem">
+                                <label class="itemName">站点名称</label>
+                                <div class="subItems"><input type="text" name="sitename" value="www.dengyouhua.com"><div class="optTips optTips_prompt"><em class="tipIcon"></em><span class="des">可以为空</span></div></div>
+                            </div><div class="yunmok_fieldItem"><label class="itemName">站点邮箱</label><div class="subItems"><input type="text" name="site_mail" value="dengyouhua@foxmail.com"><div class="optTips optTips_prompt"><em class="tipIcon"></em><span class="des">可以为空</span></div></div></div>
+                            <div class="yunmok_fieldItem">
+                                <label class="itemName">公司名称</label>
+                                <div class="subItems"><input type="text" name="company" value="dengyouhua"><div class="optTips optTips_prompt"><em class="tipIcon"></em><span class="des">可以为空</span></div></div>
+                            </div><div class="yunmok_fieldItem">
+                                <label class="itemName">站点关键字</label>
+                                <div class="subItems">
+                                    <textarea rows="5" cols="50" name="keywords"></textarea>
+                                    <div class="optTips optTips_prompt"><em class="tipIcon"></em><span class="des">供搜索引擎使用，在页面缺少关键字时使用。建议1000字以内，每个关键词用英文逗号隔开。</span></div>
+                                </div>
+                            </div><div class="yunmok_fieldItem">
+                                <label class="itemName">站点描述</label>
+                                <div class="subItems">
+                                    <textarea rows="5" cols="50" name="description"></textarea>
+                                    <div class="optTips optTips_prompt">
+                                        <em class="tipIcon"></em><span class="des">供搜索引擎使用，在页面缺少描述时使用。建议100字以内，最多200字。</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="control">
+                                <div class="optt">
+                                    <div class="saveBtn btn-ok blackBtn btn"><button type="button">保存</button></div>
+                                    <div class="cancleBtn btn lightGreyBtn"><a href="http://localhost/admin/design/page/add_page">取消</a></div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="yunmok_footer">
+            <footer class="gridContainer"><p>Copyright&copy;2014 - 2015<a href="http://www.yunmok.com" target="_blank">yunmok.com</a>All Rights Reserved. 蜀ICP备14016986号</p></footer>
+        </div>
+    </div>
+    <div class="yunmok_a_modifypwd_dialog hidden">
+        <iframe frameborder="0"></iframe>
+    </div>
+</body>
+</html>

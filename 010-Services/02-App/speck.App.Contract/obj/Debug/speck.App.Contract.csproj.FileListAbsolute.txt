@@ -1,0 +1,12 @@
+D:\快盘\开源\netspeck\004-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.dll
+D:\快盘\开源\netspeck\004-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.pdb
+D:\快盘\开源\netspeck\004-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.dll
+D:\快盘\开源\netspeck\004-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.pdb
+D:\快盘\开源\netspeck\010-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.dll
+D:\快盘\开源\netspeck\010-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.pdb
+D:\快盘\开源\netspeck\010-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.dll
+D:\快盘\开源\netspeck\010-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.pdb
+D:\netspeck\010-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.dll
+D:\netspeck\010-Services\02-App\speck.App.Contract\bin\Debug\speck.App.Contract.pdb
+D:\netspeck\010-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.dll
+D:\netspeck\010-Services\02-App\speck.App.Contract\obj\Debug\speck.App.Contract.pdb

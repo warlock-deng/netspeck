@@ -1,0 +1,13 @@
+D:\快盘\开源\netspeck\002-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.dll
+D:\快盘\开源\netspeck\002-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.pdb
+D:\快盘\开源\netspeck\002-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.dll
+D:\快盘\开源\netspeck\002-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.pdb
+D:\快盘\开源\netspeck\020-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.dll
+D:\快盘\开源\netspeck\020-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.pdb
+D:\快盘\开源\netspeck\020-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.dll
+D:\快盘\开源\netspeck\020-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.pdb
+D:\快盘\开源\netspeck\020-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.csprojResolveAssemblyReference.cache
+D:\netspeck\020-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.dll
+D:\netspeck\020-WebSite\speck.Web.Models\bin\Debug\speck.Web.Models.pdb
+D:\netspeck\020-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.dll
+D:\netspeck\020-WebSite\speck.Web.Models\obj\Debug\speck.Web.Models.pdb

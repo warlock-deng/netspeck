@@ -1,0 +1,16 @@
+D:\快盘\开源\netspeck\004-Services\01-Users\speck.Users\bin\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\004-Services\01-Users\speck.Users\bin\Debug\speck.Users.pdb
+D:\快盘\开源\netspeck\004-Services\01-Users\speck.Users\obj\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\004-Services\01-Users\speck.Users\obj\Debug\speck.Users.pdb
+D:\快盘\开源\netspeck\004-Services\20-Users\speck.Users\bin\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\004-Services\20-Users\speck.Users\bin\Debug\speck.Users.pdb
+D:\快盘\开源\netspeck\004-Services\20-Users\speck.Users\obj\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\004-Services\20-Users\speck.Users\obj\Debug\speck.Users.pdb
+D:\快盘\开源\netspeck\010-Services\20-Users\speck.Users\bin\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\010-Services\20-Users\speck.Users\bin\Debug\speck.Users.pdb
+D:\快盘\开源\netspeck\010-Services\20-Users\speck.Users\obj\Debug\speck.Users.dll
+D:\快盘\开源\netspeck\010-Services\20-Users\speck.Users\obj\Debug\speck.Users.pdb
+D:\netspeck\010-Services\20-Users\speck.Users\bin\Debug\speck.Users.dll
+D:\netspeck\010-Services\20-Users\speck.Users\bin\Debug\speck.Users.pdb
+D:\netspeck\010-Services\20-Users\speck.Users\obj\Debug\speck.Users.dll
+D:\netspeck\010-Services\20-Users\speck.Users\obj\Debug\speck.Users.pdb

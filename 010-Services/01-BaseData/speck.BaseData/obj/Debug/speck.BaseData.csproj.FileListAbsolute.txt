@@ -1,0 +1,16 @@
+D:\快盘\开源\netspeck\004-Services\02-BaseData\speck.BaseData\bin\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\004-Services\02-BaseData\speck.BaseData\bin\Debug\speck.BaseData.pdb
+D:\快盘\开源\netspeck\004-Services\02-BaseData\speck.BaseData\obj\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\004-Services\02-BaseData\speck.BaseData\obj\Debug\speck.BaseData.pdb
+D:\快盘\开源\netspeck\004-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\004-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.pdb
+D:\快盘\开源\netspeck\004-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\004-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.pdb
+D:\快盘\开源\netspeck\010-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\010-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.pdb
+D:\快盘\开源\netspeck\010-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.dll
+D:\快盘\开源\netspeck\010-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.pdb
+D:\netspeck\010-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.dll
+D:\netspeck\010-Services\01-BaseData\speck.BaseData\bin\Debug\speck.BaseData.pdb
+D:\netspeck\010-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.dll
+D:\netspeck\010-Services\01-BaseData\speck.BaseData\obj\Debug\speck.BaseData.pdb

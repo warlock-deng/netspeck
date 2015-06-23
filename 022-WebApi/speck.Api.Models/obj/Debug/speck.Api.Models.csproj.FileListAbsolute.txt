@@ -1,0 +1,12 @@
+D:\快盘\开源\netspeck\003-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.dll
+D:\快盘\开源\netspeck\003-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.pdb
+D:\快盘\开源\netspeck\003-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.dll
+D:\快盘\开源\netspeck\003-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.pdb
+D:\快盘\开源\netspeck\022-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.dll
+D:\快盘\开源\netspeck\022-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.pdb
+D:\快盘\开源\netspeck\022-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.dll
+D:\快盘\开源\netspeck\022-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.pdb
+D:\netspeck\022-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.dll
+D:\netspeck\022-WebApi\speck.Api.Models\bin\Debug\speck.Api.Models.pdb
+D:\netspeck\022-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.dll
+D:\netspeck\022-WebApi\speck.Api.Models\obj\Debug\speck.Api.Models.pdb

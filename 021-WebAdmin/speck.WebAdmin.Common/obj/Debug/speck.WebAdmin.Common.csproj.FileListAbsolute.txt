@@ -1,0 +1,15 @@
+D:\快盘\开源\netspeck\007-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.dll
+D:\快盘\开源\netspeck\007-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.pdb
+D:\快盘\开源\netspeck\007-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.dll
+D:\快盘\开源\netspeck\007-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.pdb
+D:\快盘\开源\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.dll
+D:\快盘\开源\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.pdb
+D:\快盘\开源\netspeck\021-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.dll
+D:\快盘\开源\netspeck\021-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.pdb
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.dll
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\speck.WebAdmin.Common.pdb
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.dll
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\obj\Debug\speck.WebAdmin.Common.pdb
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\Newtonsoft.Json.dll
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\Newtonsoft.Json.pdb
+D:\netspeck\021-WebAdmin\speck.WebAdmin.Common\bin\Debug\Newtonsoft.Json.xml
